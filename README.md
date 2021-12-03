@@ -7,6 +7,10 @@ we require an android app with geolocation, leader board and carbon-offset calcu
 
 :whale2: :whale2: :whale2: :whale2:
 
+# progress
+This is what it looks like so far
+! [image](https://github.com/ubuntupunk/savecetus/look.png?raw=true)
+
 ## Notes
 
 [ Review of The Effects of Seismic Surveys on Marine Mammals](https://www.researchgate.net/publication/233685851_A_Review_of_The_Effects_of_Seismic_Surveys_on_Marine_Mammals)
