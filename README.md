@@ -1,7 +1,7 @@
 # savecetus
 whale-friendly filling stations only
 
-android app with geolocation, leader board and carbon-offset calculator
+we require an android app with geolocation, leader board and carbon-offset calculator
 
 switch your brand now
 
