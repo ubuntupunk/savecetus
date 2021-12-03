@@ -1,9 +1,11 @@
 # savecetus
-:whale2: whale-friendly filling stations only
+:whale2: whale & dolphin friendly filling stations only :dolphin:
 
 we require an android app with geolocation, leader board and carbon-offset calculator
 
-switch your brand now, save cetus :whale:
+:whale2: switch your brand now, save cetus :dolphin:
+
+:whale2: :whale2: :whale2: :whale2:
 
 ## Notes
 
