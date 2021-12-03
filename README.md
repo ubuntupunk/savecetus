@@ -9,7 +9,7 @@ we require an android app with geolocation, leader board and carbon-offset calcu
 
 # progress
 This is what it looks like so far
-! [image](https://github.com/ubuntupunk/savecetus/look.png?raw=true)
+![image](https://github.com/ubuntupunk/savecetus/blob/main/app/look.png?raw=true)
 
 ## Notes
 
