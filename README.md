@@ -3,7 +3,7 @@ whale-friendly filling stations only
 
 we require an android app with geolocation, leader board and carbon-offset calculator
 
-switch your brand now
+switch your brand now, save cetus
 
 ## Notes
 
