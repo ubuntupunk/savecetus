@@ -3,6 +3,8 @@
 
 we require an android app with geolocation, leader board and carbon-offset calculator
 
+we could add some form of warning to assist people, who may accidently stumble upon a [whale-unfriendly service centre](https://www.shell.co.za/business-customers/commercial-fuels-za/shell-fuels-distributor-locator.html?fbclid=IwAR3t4cK90g9jrM012OeZgMZBUDYfZOFKVE0KfmAbqN5hnEzURJOkocWoHUQ#iframe=L2Zvcm1zL2VuX3NhX2NvbnRhY3RfdXNfZGlzdHJpYnV0b3JfbG9jYXRvcg)
+
 :whale2: switch your brand now, save cetus :dolphin:
 
 :whale2: :whale2: :whale2: :whale2:
